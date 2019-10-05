@@ -304,3 +304,8 @@
 - Place:Patiala,Punjab, India
 - Bio: A student at thapar university patiala.
 - GitHub: [pritampiyush5](https://github.com/pritampiyush5)
+#### Name: [Pritam Piyush](https://github.com/pritampiyush5)
+- Place:Patiala,Punjab, India
+- Bio: A student at thapar institute of engineering and technology.
+- GitHub: [pritampiyush5](https://github.com/pritampiyush5)
+
